@@ -1,4 +1,4 @@
-This Power BI project aims to create a Sales Insights Report that provides valuable insights into sales data. The dashboard utilizes various visuals to represent the data and presents a comprehensive view of sales performance on a single page.
+This Power BI project aims to create a Sales Insights Report that provides valuable insights into sales data. The report utilizes various visuals to represent the data and presents a comprehensive view of sales performance on a single page.
 
 Data Gathering / Requirement
 The following tables are used for data gathering in this project:
